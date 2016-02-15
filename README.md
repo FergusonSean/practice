@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 1
 |
 2
@@ -12,4 +13,4 @@
 |\
 3 4
 
-# practice
+# stuff practice
